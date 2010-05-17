@@ -1,0 +1,5 @@
+This is my skeleton Rails app that should (hopefully) make it easier to build out apps quickly.
+
+Currently includes:
+1. Authlogic
+2. Haml
